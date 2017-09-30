@@ -1,3 +1,3 @@
 New feature readme file
 
-Just add new stuff 
+Just add new stuff to readme
